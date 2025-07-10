@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "chapterNumber": 1,
+    "date": "2015-09-12",
+    "chapterTitle": "12 September 2015",
+    "characters": ["Pascal"],
+    "story": "Pascal sits on a worn wooden bench outside the university library, contemplating his first job offer. He feels overwhelmed by the expectations and fears he might fail. His friend Mei reassures him, and they end up at Clara's flat, where they share wine in teacups and laughter, easing Pascal's tension."
+  },
+  {
+    "id": 2,
+    "chapterNumber": 2,
+    "date": "2011-11-05",
+    "chapterTitle": "5 November 2011",
+    "characters": ["Elias"],
+    "story": "Elias works at a pub in Antwerp, feeling adrift and underappreciated. He reflects on his past jobs and his mother's struggles, feeling a restlessness and a desire for a better life. He observes a wealthy couple in the pub and feels a mix of envy and determination to improve his circumstances."
+  },
+  {
+    "id": 3,
+    "chapterNumber": 3,
+    "date": "2017-02-01",
+    "chapterTitle": "1 February 2017",
+    "characters": ["Elias", "Richard"],
+    "story": "Elias meets Richard, an older man who offers him a glimpse into a wealthy lifestyle. However, Richard's offer of help feels transactional, and Elias rejects it, feeling humiliated and determined to find his own way."
+  },
+  {
+    "id": 4,
+    "chapterNumber": 4,
+    "date": "2017-05-23",
+    "chapterTitle": "23 May 2017",
+    "characters": ["Elias", "David"],
+    "story": "Elias is out with David, who comments on his appearance, making Elias hyper-aware of his aging looks. This sparks an obsession with maintaining his appearance, as he sees it as his key to success and acceptance."
+  },
+  {
+    "id": 5,
+    "chapterNumber": 5,
+    "date": "2017-11-25",
+    "chapterTitle": "25 November 2017",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal meets Tom, a security guard, in his office building. They start with brief exchanges but gradually develop a comfortable rapport, leading to a shared beer and a sense of connection."
+  },
+  {
+    "id": 6,
+    "chapterNumber": 6,
+    "date": "2017-12-16",
+    "chapterTitle": "16 December 2017",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal and Tom share a moment in the lobby, leading to an impromptu decision to have a beer together. They walk to a nearby pub, enjoying each other's company and the simplicity of the moment."
+  },
+  {
+    "id": 7,
+    "chapterNumber": 7,
+    "date": "2018-03-03",
+    "chapterTitle": "3 March 2018",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal spends a Sunday morning with Tom, who cooks scrambled eggs and suggests they spend the day without a plan. Pascal, usually meticulous, finds comfort in Tom's unhurried approach to life and enjoys the spontaneity of their day together."
+  },
+  {
+    "id": 8,
+    "chapterNumber": 8,
+    "date": "2020-08-05",
+    "chapterTitle": "5 August 2020",
+    "characters": ["Pascal", "Clara", "Mei", "Tom"],
+    "story": "Pascal, Clara, Mei, and Tom spend an afternoon playing tennis and enjoying a picnic. They share laughter and camaraderie, and Pascal reflects on the happiness of the moment, feeling a deep connection with his friends."
+  },
+  {
+    "id": 9,
+    "chapterNumber": 9,
+    "date": "2021-01-19",
+    "chapterTitle": "19 January 2021",
+    "characters": ["Pascal", "Clara"],
+    "story": "Pascal feels isolated and lonely on a late-night train ride with Clara and her partner, Ben. Clara's attempt to set him up with a stranger leaves Pascal feeling humiliated and more aware of his social awkwardness."
+  },
+  {
+    "id": 10,
+    "chapterNumber": 10,
+    "date": "2021-03-05",
+    "chapterTitle": "5 March 2021",
+    "characters": ["Pascal"],
+    "story": "Pascal goes on a date with David, which ends in disappointment. Pascal feels disconnected and struggles with the idea of vulnerability and emotional connection."
+  },
+  {
+    "id": 11,
+    "chapterNumber": 11,
+    "date": "2021-06-12",
+    "chapterTitle": "12 June 2021",
+    "characters": ["Pascal"],
+    "story": "Pascal declines an invitation to drinks with friends, preferring to stay in his meticulously ordered apartment. He reflects on his isolation and the facade of his carefully controlled life."
+  },
+  {
+    "id": 12,
+    "chapterNumber": 12,
+    "date": "2021-08-22",
+    "chapterTitle": "22 August 2021",
+    "characters": ["Pascal", "Clara", "Mei", "Tom"],
+    "story": "Pascal attends Mei's birthday dinner but leaves early, feeling out of place and disconnected from his friends, including Tom."
+  },
+  {
+    "id": 13,
+    "chapterNumber": 13,
+    "date": "2021-09-03",
+    "chapterTitle": "3 September 2021",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal attends Tom's housewarming party but leaves early, feeling awkward and out of place. He reflects on his discomfort and the lingering feelings for Tom."
+  },
+  {
+    "id": 14,
+    "chapterNumber": 14,
+    "date": "2021-10-25",
+    "chapterTitle": "25 October 2021",
+    "characters": ["Pascal", "Clara", "Tom", "Mei"],
+    "story": "Pascal attends Clara's birthday party but leaves early, feeling disconnected and awkward around his friends and Tom."
+  },
+  {
+    "id": 15,
+    "chapterNumber": 15,
+    "date": "2021-12-24",
+    "chapterTitle": "24 December 2021",
+    "characters": ["Pascal"],
+    "story": "Pascal spends Christmas Eve alone in his apartment, reflecting on his isolation and the invitations he declined. He feels a deep sense of loneliness and disconnection."
+  },
+  {
+    "id": 16,
+    "chapterNumber": 16,
+    "date": "2022-01-03",
+    "chapterTitle": "3 January 2022",
+    "characters": ["Pascal", "James"],
+    "story": "Pascal meets James, an older married man, for a discreet encounter at a hotel. They share a night of passion, but Pascal is left feeling more isolated and alone afterward."
+  },
+    {
+    "id": 17,
+    "chapterNumber": 17,
+    "date": "2022-02-08",
+    "chapterTitle": "8 February 2022",
+    "characters": ["Pascal", "Clara", "Tom", "Mei", "Ben"],
+    "story": "Pascal withdraws from his social circle, silently reading group chats without contributing. His routine—coffee, work, solitary dinners—feels increasingly empty. Invited to Tom's birthday drinks, he can't bring himself to respond or attend. Clara calls, sensing his distance, but Pascal deflects, insisting he's fine despite feeling homesick for an unlived life. The weight of his isolation grows, marked by a bottle of wine he never delivers."
+  },
+  {
+    "id": 18,
+    "chapterNumber": 18,
+    "date": "2022-04-18",
+    "chapterTitle": "18 April 2022",
+    "characters": ["Elias", "Sarah-or-Sophie", "Marcus", "David"],
+    "story": "Elias navigates Edinburgh's nightlife, charming a woman into giving him money and her number with a fabricated story about a music venue. His survival depends on charisma, honed through years of drifting. In Edinburgh, he finds a rhythm, blending into its theatrical pulse, but the constant performance weighs on him. Haunted by dreams of his mother and the transactional nature of his connections, Elias yearns for authenticity while trapped in a cycle of charm and evasion."
+  },
+  {
+    "id": 19,
+    "chapterNumber": 19,
+    "date": "2022-06-24",
+    "chapterTitle": "24 June 2022",
+    "characters": ["Pascal", "Mei", "Elias"],
+    "story": "At a networking event in Shoreditch, Pascal, polished and controlled, feels out of place amid corporate chatter. He envies a charismatic stranger—Elias—whose effortless charm and carefree demeanor contrast sharply with Pascal's rigid life. Elias's mismatched style and magnetic presence stir a longing in Pascal for a less structured existence. Mei notices Pascal's distraction, but he deflects. The brief eye contact with Elias leaves Pascal questioning his carefully constructed life."
+  },
+  {
+    "id": 20,
+    "chapterNumber": 20,
+    "date": "2022-07-03",
+    "chapterTitle": "3 July 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "In a quiet Edinburgh bar, Pascal, guarded and out of place among colleagues, notices Elias again. Elias approaches, recognizing Pascal from the networking event, and their conversation crackles with tension. Elias's bold kiss disrupts Pascal's carefully hidden world, exposing his unspoken desires. Left with Elias's number on a napkin, Pascal grapples with shame and thrill, his colleagues' glances amplifying his internal conflict as he contemplates the chaos Elias represents."
+  },
+  {
+    "id": 21,
+    "chapterNumber": 21,
+    "date": "2022-07-06",
+    "chapterTitle": "6 July 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "Three days after the kiss, Pascal wrestles with the decision to contact Elias. His orderly apartment feels stifling, Elias's presence lingering like a disruption to his controlled life. The memory of Elias's words and the kiss challenges Pascal's repression, stirring a desire for risk. After days of hesitation, Pascal calls Elias, whose confident greeting reignites the spark of possibility. Their conversation hints at a shift, as Pascal begins to question the safety of his meticulously planned existence."
+  },
+   {
+    "id": 22,
+    "chapterNumber": 22,
+    "date": "2022-08-03",
+    "chapterTitle": "3 August 2022",
+    "characters": ["Elias", "Pascal", "Jamie"],
+    "story": "Elias leaves Pascal's apartment after a date that stirs unexpected feelings. Pascal's sincerity and quiet passion unsettle him, clashing with his usual transient lifestyle. Drawn to Pascal but fearing the weight of genuine connection, Elias seeks refuge in a familiar bar, 'The Velvet Curtain.' There, he falls back into his charming, detached persona, flirting with a younger man, Jamie. Despite a text from Pascal expressing hope, Elias deletes it, choosing fleeting distraction over the vulnerability of something real."
+  },
+  {
+    "id": 23,
+    "chapterNumber": 23,
+    "date": "2022-09-13",
+    "chapterTitle": "13 September 2022",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal reflects on his past relationship with Tom, a calm landscape architect who offered stability but needed space from Pascal's controlling tendencies. Their gradual romance ended when Pascal's need to plan overwhelmed Tom's desire for simplicity, leaving Pascal feeling his love was unlovable. Since Tom, Pascal has avoided vulnerability, but Elias's chaotic energy challenges this. Elias embraces Pascal's intensity, making him feel needed, though Pascal hasn't yet seen the potential manipulation in Elias's acceptance of his anxieties."
+  },
+  {
+    "id": 24,
+    "chapterNumber": 24,
+    "date": "2022-09-29",
+    "chapterTitle": "29 September 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "In a quiet morning moment, Pascal reads while Elias rests beside him, their intimacy deepening as Pascal shares his financial journal. Elias admires Pascal's intellect, calling him brilliant, and their connection grows through slow, tender lovemaking. Pascal confesses his love, and Elias reciprocates, both enveloped in a rare moment of authenticity. For Elias, accustomed to performance, being loved for his true self feels profound, marking a shift toward genuine vulnerability."
+  },
+  {
+    "id": 25,
+    "chapterNumber": 25,
+    "date": "2022-10-21",
+    "chapterTitle": "21 October 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "Elias convinces Pascal for a spontaneous trip to Beirut, overriding Pascal's planned itinerary. They stay in a vibrant, local hotel in Gemmayzeh, immersing in the city's chaotic energy. Elias navigates with ease, introducing Pascal to street food and arak, while Pascal opens up about his anxieties. At a beach club in Byblos, Elias's unselfconscious joy inspires Pascal to let go, embracing the moment. Over dinner, Elias gifts Pascal a carved wooden bird, symbolizing a 'beautiful mess' that challenges Pascal's need for order."
+  },
+  {
+    "id": 26,
+    "chapterNumber": 26,
+    "date": "2022-12-31",
+    "chapterTitle": "31 December 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "Pascal plans a solitary New Year's Eve, but Elias disrupts it with an impromptu fireworks display outside his apartment. Drawn out, Pascal joins Elias in the cold Edinburgh night, sharing whisky and wandering to a lively square. Surrounded by a diverse crowd, they share a tender kiss at midnight, marking a shift in Pascal's acceptance of spontaneity. Elias's influence pushes Pascal to embrace the unknown, trusting the night to lead them somewhere new."
+  }
+]
