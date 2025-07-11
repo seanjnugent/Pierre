@@ -4,14 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://seanjnugent.github.io/Pierre",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build --outDir docs",
+  "preview": "vite preview",
+  "lint": "eslint ."
+},
   "dependencies": {
     "gh-pages": "^6.3.0",
     "lucide-react": "^0.525.0",
