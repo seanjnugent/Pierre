@@ -5,6 +5,8 @@ import eliasMain from '../assets/images/elias/elias_main.png';
 import eliasAlt from '../assets/images/elias/elias_alt.png';
 import meiMain from '../assets/images/mei/mei_main.png';
 import tomMain from '../assets/images/tom/tom_main.png';
+import mick from '../assets/images/secondary_characters/mick.png';
+import james from '../assets/images/secondary_characters/james.png';
 
 const charactersData = [
   {
@@ -18,7 +20,7 @@ const charactersData = [
     ],
     "traits": ["Orderly", "Reserved", "Disciplined", "Yearns for disruption"],
     "locations": [
-      { "year": "1985-2011", "place": "Ireland", "details": "Grew up in a strict coastal town, shaped by discipline." },
+      { "year": "1993-2011", "place": "Ballina, Ireland", "details": "Grew up in a strict coastal town, shaped by discipline." },
       { "year": "2011-2026", "place": "Edinburgh, Scotland", "details": "Moved for university and career, found both chaos and solace." }
     ],
     "appearance": { "hair": "Dark brown, neat", "eyes": "Hazel", "build": "Lean, wiry" },
@@ -141,7 +143,73 @@ const charactersData = [
     "Pascal": "Pascal is drawn to Gary's masculinity and ease; Gary sees Pascal as a bit stiff but enjoys his company."
   },
   "timeline": []
-}
+},
+ {
+    "id": "james",
+    "name": "James",
+    "description": "A refined and perhaps somewhat detached individual, encountered by Pascal's through seedy circumstances.",
+    "bio": "James is an acquaintance Pascal meets in a hotel setting after speaking online. His interactions are  calm and composed. His life is probably one of quiet luxury or significant professional demands.",
+    "images": [james],
+    "traits": ["Refined", "Calm", "Observant", "Professionally polished"],
+    "locations": [
+      {
+        "year": "Unknown",
+        "place": "Edinburgh or international",
+        "details": "Associated with high-end hotels, implying a life of travel or a senior professional role."
+      }
+    ],
+    "appearance": {
+      "hair": "Neat, dark but greying",
+      "eyes": "Intelligent, perhaps a little guarded",
+      "build": "Stocky and broad-shouldered",
+      "clothing": "Business attire (e.g., tailored shirts, subtle luxury brands)",
+      "scent": "Faintly of expensive cologne or clean linen, very subtle"
+    },
+    "psyche": {
+      "personality": ["Reserved", "Intellectual", "Controlled", "Subtly perceptive"],
+      "quirks": ["Prefers quiet conversations", "Appreciates efficiency and discretion"]
+    },
+    "relationships": {
+      "Pascal": "A professional or social acquaintance. James likely provides a calm, rational presence that Pascal, post-Elías, might find appealing or comfortable."
+    },
+    "timeline": []
+  },
+  {
+    "id": "mick",
+    "name": "Mick",
+    "description": "An Irish man whose formidable appearance belies a warm and friendly nature.",
+    "bio": "Mick is an Irish individual with a 'scary face' and 'tattooed' appearance, but 'friendly eyes.' This suggests a person who might initially seem intimidating due to their exterior, but possesses genuine warmth and kindness. He could be a worker, a local regular, or someone connected to the less polished, more authentic side of Edinburgh.",
+    "images": [mick],
+    "traits": ["Kind-hearted", "Rough around the edges", "Perceptive"],
+    "locations": [
+      {
+        "year": "Unknown",
+        "place": "Ireland (birth)",
+        "details": "Grew up in Ireland, likely from a working-class background given his appearance cues."
+      },
+      {
+        "year": "Unknown",
+        "place": "Edinburgh",
+        "details": "Not clear if in Edinburgh on holiday or work."
+      }
+    ],
+    "appearance": {
+      "hair": "Shaved or very short, possibly with a hint of stubble",
+      "eyes": "Friendly, crinkling at the corners when he smiles",
+      "build": "Slender with skinny tatooed arms",
+      "clothing": "Alternative, possibly with a punk or rock influence (e.g., band t-shirts)",
+      "scent": "Faintly of pubs, clean laundry, or fresh air"
+    },
+    "psyche": {
+      "personality": ["Friendly", "No-nonsense", "Outgoing", "Good-humored"],
+      "quirks": ["Face tatoos"],
+      "accent": "Strong Dublin accent"
+    },
+    "relationships": {
+      "Pascal": "Kinship for fellow countryman, curious about this 'posh' Irishman in Edinburgh."
+    },
+    "timeline": []
+  }
 ]
 
 export default charactersData;

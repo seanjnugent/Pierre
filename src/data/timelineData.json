@@ -206,5 +206,221 @@
     "chapterTitle": "31 December 2022",
     "characters": ["Pascal", "Elias"],
     "story": "Pascal plans a solitary New Year's Eve, but Elias disrupts it with an impromptu fireworks display outside his apartment. Drawn out, Pascal joins Elias in the cold Edinburgh night, sharing whisky and wandering to a lively square. Surrounded by a diverse crowd, they share a tender kiss at midnight, marking a shift in Pascal's acceptance of spontaneity. Elias's influence pushes Pascal to embrace the unknown, trusting the night to lead them somewhere new."
+  },
+    {
+    "id": 27,
+    "chapterNumber": 27,
+    "date": "2023-01-17",
+    "chapterTitle": "17 January 2023",
+    "characters": ["Pascal", "Elias"],
+    "story": "Pascal’s 6:15 AM run, a ritual of discipline, is disrupted when Elías insists on joining, his smoker’s lungs faltering on the first hill. His pride bruised, Elías pushes through, but the run ends in silence and a cigarette, their rift unspoken. Weeks later, Elías’s jealousy flares over Pascal’s friend Mei, a marathon runner, accusing him of neglecting their time together. Elías’s late-night outings—bars, stories, wine—sabotage Pascal’s routine, leaving gaps in his meticulous running spreadsheet. By February, Pascal’s resolve crumbles; he skips runs, his personal bests fading. Lying beside Elías, he feels love morph into a cage, his ordered world unraveling."
+  },
+  {
+    "id": 28,
+    "chapterNumber": 28,
+    "date": "2023-03-16",
+    "chapterTitle": "16 March 2023",
+    "characters": ["Pascal", "Elias", "Clara", "Mei", "Tom"],
+    "story": "Pascal hosts a meticulously planned dinner to introduce Elías to his friends Clara, Mei, and Tom. The table is perfect—wild mushroom risotto, crisp Sauvignon Blanc, lotus-folded napkins—but Elías arrives late, his charm performative and cutting. He dismisses Mei’s policy work, mocks Clara’s community efforts, and falters under Tom’s quiet challenge to his grandiose art stories. The tension peaks as Elías storms to the balcony for a cigarette. In his absence, Pascal’s friends reconnect effortlessly, their ease a stark contrast to Elías’s chaos. Pascal realizes Elías’s allure is a destructive force, pulling him from the life he values."
+  },
+  {
+    "id": 29,
+    "chapterNumber": 29,
+    "date": "2023-03-17",
+    "chapterTitle": "17 March 2023",
+    "characters": ["Pascal", "Elias"],
+    "story": "After the disastrous dinner, Pascal cleans the remnants of the night while Elías, sullen, slams dishes into the dishwasher. His biting critique of Pascal’s friends—calling them insufferable snobs—ignites a fight. Pascal accuses Elías of being dismissive and mean, while Elías retorts that Pascal’s friends judged him as an outsider. The argument lays bare their divide: Pascal craves connection with his steady world, Elías demands to be seen without compromise. Silence falls, heavy with mutual disappointment. Pascal senses the dinner was a test Elías failed, but he’s not ready to voice the fracture, rinsing plates as the rift widens."
+  },
+  {
+    "id": 30,
+    "chapterNumber": 30,
+    "date": "2023-04-03",
+    "chapterTitle": "3 April 2023",
+    "characters": ["Pascal", "Elias"],
+    "story": "Elías wakes to Pascal’s quiet morning routine, the apartment infused with bergamot and order. Six months in, his presence—leather jacket, chipped mug—has woven into Pascal’s life, a miracle of belonging for Elías. Over coffee and toast, prepared with Pascal’s understated care, they share a tender moment, Elías holding Pascal as Edinburgh’s rooftops emerge from mist. Later, watching *Stalker*, Pascal’s reverence for the film’s themes of desire moves Elías. When Pascal admits he wants ‘this’—their shared intimacy—Elías feels himself falling in love, not with an idea, but with Pascal’s complex, unguarded self."
+  },
+  {
+    "id": 31,
+    "chapterNumber": 31,
+    "date": "2023-10-04",
+    "chapterTitle": "4 October 2023",
+    "characters": ["Pascal", "Elias", "Henderson", "Sarah Chen"],
+    "story": "Pascal attends a client appreciation event for Cromwell Partners, dressed in a charcoal suit to project competence and control. Elías, uninvited, arrives wearing Pascal’s navy suit, charming the crowd but overstepping by sharing personal anecdotes about Pascal’s work habits and suggesting restaurant investments. His actions disrupt Pascal’s carefully curated professional image, causing tension among colleagues like Sarah Chen and Henderson. Pascal confronts Elías, asking him to leave, but the damage is done—his colleagues’ perception shifts subtly. At home, Elías’s defiance lingers, leaving Pascal to question the boundaries he’s fought to maintain."
+  },
+  {
+    "id": 32,
+    "chapterNumber": 32,
+    "date": "2024-03-01",
+    "chapterTitle": "1 March 2024",
+    "characters": ["Pascal", "Elias", "Gary"],
+    "story": "On a warm Edinburgh evening, Pascal and Elías walk through the Old Town, their hands brushing but not linking, reflecting Pascal’s caution. A chance encounter with neighbor Gary sparks tension when Elías perceives judgment in Gary’s glance. Elías accuses Pascal of being embarrassed to be seen with him, revealing his own insecurities about belonging due to his North African heritage. The argument exposes their differing needs—Pascal’s for privacy, Elías’s for visibility. Back at the flat, Elías’s attention shifts to his phone, hinting at connections outside their relationship, leaving Pascal with a growing sense of unease."
+  },
+  {
+    "id": 33,
+    "chapterNumber": 33,
+    "date": "2024-06-07",
+    "chapterTitle": "7 June 2024",
+    "characters": ["Pascal", "Elias"],
+    "story": "Pascal discovers debt collection letters addressed to Elías, piling up since March, revealing £12,000 in unpaid debts. Elías dismisses them as administrative errors or failed business deals, but his evasive responses and lavish spending habits raise Pascal’s suspicions. The letters, combined with Elías’s casual mentions of vague opportunities, contrast sharply with Pascal’s methodical life, built on stability. Despite his love for Elías, Pascal senses a growing financial and emotional chaos, lying awake wondering how deep the lies run and whether their relationship can survive the mounting distrust."
+  },
+  {
+    "id": 34,
+    "chapterNumber": 34,
+    "date": "2024-08-09",
+    "chapterTitle": "9 August 2024",
+    "characters": ["Pascal", "Elias", "Georgian Man"],
+    "story": "At a dive bar Elías loves, he spins an embellished tale of living in Tbilisi, captivating the crowd until a Georgian man challenges its authenticity, exposing Elías’s lies. The confrontation escalates into a physical scuffle, and they’re thrown out. Pascal, humiliated by the public scene, confronts Elías, who defends his storytelling as capturing the ‘spirit’ of the experience. The incident highlights Elías’s need for attention and Pascal’s discomfort with his chaos, deepening the rift. Pascal walks home alone, realizing he’s falling for someone who thrives on the drama he’s spent his life avoiding."
+  },
+  {
+    "id": 35,
+    "chapterNumber": 35,
+    "date": "2024-10-26",
+    "chapterTitle": "26 October 2024",
+    "characters": ["Pascal", "Elias", "Mick", "Green-Haired Girl"],
+    "story": "After missing a restaurant reservation due to Elías’s tardiness, they end up in a gritty pub under North Bridge. Elías coaxes Pascal into drinking and dancing, unlocking a rare, vibrant side of him. Pascal connects with strangers, including a Dublin man who recognizes his Irish roots, but Elías grows jealous, feeling sidelined. In the smoking area, Elías flirts with a younger man, who rebuffs him. Back inside, he cuts the night short, his possessiveness clashing with Pascal’s fleeting freedom. The cab ride home is tense, Elías’s jealousy exposing the fragility of their dynamic."
+  },
+  {
+    "id": 36,
+    "chapterNumber": 36,
+    "date": "2025-04-17",
+    "chapterTitle": "17 April 2025",
+    "characters": ["Pascal", "Mei"],
+    "story": "In a rainy Edinburgh café, Pascal confides in Mei about his fleeting, desperate encounter with neighbor Gary after Elías’s chaotic outburst broke a shelf. Seeking her grounded presence, Pascal recounts Gary’s unexpected kindness—a simple hug that felt like a lifeline amid Elías’s chaos. He admits to briefly touching Gary intimately, driven by a need for connection, only to be gently rebuffed. Mei challenges Pascal’s pattern of choosing unavailable or destructive men, urging him to choose himself. The conversation reveals Pascal’s shame, Elías’s betrayals (including cheating in January), and his growing resolve to break free, bolstered by Mei’s empathy and her own story of rationalizing a colleague’s inappropriate behavior."
+  },
+  {
+    "id": 37,
+    "chapterNumber": 37,
+    "date": "2025-05-03",
+    "chapterTitle": "3 May 2025",
+    "characters": ["Gary", "Elias"],
+    "story": "Gary, a divorced builder living next to Pascal, hears drunken footsteps and finds Elías attempting to enter Pascal’s flat with a key. Suspicious, Gary confronts him, recalling Elías’s past destructive behavior (breaking Pascal’s shelf). Elías defends himself, claiming history with Pascal, but Gary, unmoved, stands firm, citing the sounds of arguments through the walls. When Elías tosses the key and leaves, Gary picks it up, choosing not to disturb Pascal. Alone, he feels a quiet satisfaction in protecting his neighbor, reflecting on his own loneliness but finding purpose in his small act of vigilance."
+  },
+  {
+    "id": 38,
+    "chapterNumber": 38,
+    "date": "2025-06-02",
+    "chapterTitle": "2 June 2025",
+    "characters": ["Pascal", "Elias"],
+    "story": "Elías returns after a fight over incriminating texts, launching a love-bombing campaign to reassert control. He overwhelms Pascal with extravagant gifts—roses, a gaudy bracelet, a leather jacket—and possessive affection, ignoring Pascal’s need for simplicity. His intense presence, marked by lavish dinners, loud music, and demanding intimacy, suffocates Pascal, who feels his autonomy eroding. Despite Elías’s efforts to erase Pascal’s growing independence, Mei’s words and Gary’s kindness fuel a quiet resolve. Staring at a garish painting Elías gifted, Pascal senses a spark of defiance, imagining a life free from his control."
+  },
+  {
+    "id": 39,
+    "chapterNumber": 39,
+    "date": "2025-07-19",
+    "chapterTitle": "19 July 2025",
+    "characters": ["Pascal", "Tom"],
+    "story": "Seeking escape from Elías’s suffocating presence, Pascal stumbles into a café and encounters Tom, his ex, now with a boyfriend, Liam. Tom’s calm, kind presence contrasts sharply with Elías’s chaos, stirring nostalgia and longing. They exchange cautious pleasantries, and Tom, sensing Pascal’s strain, suggests catching up later. The brief interaction rekindles Pascal’s yearning for a simpler, safer connection, offering a fragile lifeline. He leaves the café with a mix of hope and trepidation, aware that Elías’s control threatens any chance of reclaiming his autonomy."
+  },
+  {
+    "id": 40,
+    "chapterNumber": 40,
+    "date": "2025-08-29",
+    "chapterTitle": "29 August 2025",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal meets Tom at a pub, lying to Elías about working late. Their conversation flows from nostalgic banter to deeper confessions, with Tom revealing strain in his relationship with Liam. The warmth of their shared history contrasts with Pascal’s chaotic life with Elías, reigniting his attraction to Tom’s steady presence. A fleeting touch at the bar sparks tension, and outside Tom’s flat, they share a tender, hesitant kiss. Pascal accepts Tom’s invitation to come upstairs, where their intimacy unfolds gently, offering Pascal a taste of the safe, authentic connection he craves, though complicated by their existing relationships."
+  },
+  {
+    "id": 41,
+    "chapterNumber": 41,
+    "date": "2025-08-30",
+    "chapterTitle": "30 August 2025 (Pascal)",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal wakes in Tom’s bed, initially gripped by guilt over betraying Elías and Tom’s boyfriend, Liam. The quiet comfort of Tom’s flat—its lived-in simplicity, a whisk from their past—contrasts with Elías’s chaotic presence. Pascal’s Catholic guilt clashes with a dawning recognition of Tom’s steady, authentic love, rekindling memories of their uncomplicated past. Making coffee for Tom, Pascal leaves quietly, overwhelmed but hopeful. He realizes Elías brings anxiety while Tom offers peace, sparking a resolve to escape his toxic relationship, though he knows confronting Elías will be daunting."
+  },
+  {
+    "id": 42,
+    "chapterNumber": 42,
+    "date": "2025-08-30",
+    "chapterTitle": "30 August 2025 (Tom)",
+    "characters": ["Tom", "Pascal"],
+    "story": "Tom wakes alone in his flat, finding Pascal gone but a warm mug of coffee left behind—a small, thoughtful gesture. Guilt over Liam mixes with the lingering warmth of Pascal’s presence, rekindling memories of their quiet, authentic connection. Tom reflects on Pascal’s exhaustion and Elías’s toxic influence, contrasting it with his own strained relationship with Liam. The coffee, a symbol of Pascal’s care, stirs a yearning for the simplicity they once shared. Tom knows he must address his own situation but feels a quiet truth: his night with Pascal was not a mistake but a rediscovery of something real."
+  },
+  {
+    "id": 43,
+    "chapterNumber": 43,
+    "date": "2025-09-22",
+    "chapterTitle": "22 September 2025",
+    "characters": ["Pascal", "Elias", "Mei", "Tom"],
+    "story": "Elías’s control tightens as he senses Pascal pulling away, his questions turning accusatory and his presence invasive. He monitors Pascal’s movements, showing up uninvited at his workplace and social outings, embarrassing him with possessive behavior. Elías sends threatening messages to Tom, warning him to stay away. Pascal, exhausted and isolated, struggles to maintain his fragile resolve. Meetings with Mei are interrupted by Elías’s intrusions, and his once-orderly flat feels like a prison. Pascal’s attempts to carve out space—late nights, invented errands—only heighten Elías’s paranoia, leaving Pascal desperate for escape but terrified of confrontation."
+  },
+  {
+    "id": 44,
+    "chapterNumber": 44,
+    "date": "2025-09-24",
+    "chapterTitle": "24 September 2025",
+    "characters": ["Tom", "Liam"],
+    "story": "Tom, in Liam’s sterile flat, feels disconnected from Liam’s polished perfection and subtle critiques of his softening body. Memories of Pascal’s gentle acceptance contrast with Liam’s expectations, stirring longing for authentic connection. Realizing the spark with Liam is gone, Tom reaches out to Pascal, choosing the possibility of something real."
+  },
+  {
+    "id": 45,
+    "chapterNumber": 45,
+    "date": "2025-10-05",
+    "chapterTitle": "5 October 2025",
+    "characters": ["Pascal", "Gary", "Clara"],
+    "story": "Overwhelmed by Elías’s suffocating surveillance, Pascal, in a late-night panic, asks Gary to change his flat’s locks before Elías returns. Gary’s immediate support and Clara’s fierce protectiveness provide safety. The new keys mark Pascal’s decisive step toward freedom, grounded by their presence."
+  },
+  {
+    "id": 46,
+    "chapterNumber": 46,
+    "date": "2025-10-06",
+    "chapterTitle": "6 October 2025",
+    "characters": ["Pascal", "Elias", "Clara"],
+    "story": "Elías bangs on Pascal’s locked door, pleading to talk. His raw confession about his traumatic Charleroi childhood reveals his insecurities, but shifts to manipulation, accusing Pascal of rejecting his aging body. Pascal, with Clara’s support, recognizes the blackmail and ends the relationship. Elías leaves quietly, taking a bag of belongings."
+  },
+  {
+    "id": 47,
+    "chapterNumber": 47,
+    "date": "2025-10-07",
+    "chapterTitle": "7 October 2025",
+    "characters": ["Pascal", "Clara"],
+    "story": "Pascal reflects on Elías’s half-truths and his own complicity in believing a curated version of him. Clara’s presence helps him process his guilt and tendency to ‘fix’ others. The flat, free of Elías’s chaos, feels quieter, with peace now possible, though Pascal still cares for Elías."
+  },
+  {
+    "id": 48,
+    "chapterNumber": 48,
+    "date": "2025-11-15",
+    "chapterTitle": "15 November 2025",
+    "characters": ["Pascal", "Clara"],
+    "story": "Pascal rebuilds his life, restoring routines like coffee, ironed shirts, and gym sessions. His health and confidence return, noticed by Clara and Mei. Friends celebrate his recovery without dwelling on Elías, affirming his progress through subtle compliments on his restored order and presence."
+  },
+  {
+    "id": 49,
+    "chapterNumber": 49,
+    "date": "2025-12-02",
+    "chapterTitle": "2 December 2025",
+    "characters": ["Elias"],
+    "story": "In a grim Sighthill flat, Elías grapples with his failures, watching Pascal’s window and misinterpreting a gathering as Pascal with Tom. His unsent letters and return to Charleroi loom as surrender. Pascal’s carefully packed box, with a carved bird, offers unearned tenderness, breaking him."
+  },
+  {
+    "id": 50,
+    "chapterNumber": 50,
+    "date": "2026-08-08",
+    "chapterTitle": "8 August 2026",
+    "characters": ["Pascal", "Mei", "Clara"],
+    "story": "Pascal’s friendships with Mei and Clara flourish through weekly dinners. At a pub quiz, he learns Tom ended things with Liam, sparking hope. Mei and Clara’s teasing reflects their support for his growth, marking a turning point as Pascal feels ready for new possibilities."
+  },
+  {
+    "id": 51,
+    "chapterNumber": 51,
+    "date": "2026-12-05",
+    "chapterTitle": "5 December 2026",
+    "characters": ["Pascal"],
+    "story": "Pascal focuses on self-rebuilding, rediscovering hobbies like scale models and books, and finding peace in solitude. His friendships strengthen, and he reconnects with colleagues. The toxic lessons from Elías teach him to value authentic connection over external validation, grounding him in his core self."
+  },
+  {
+    "id": 52,
+    "chapterNumber": 52,
+    "date": "2027-02-26",
+    "chapterTitle": "26 February 2027",
+    "characters": ["Pascal", "Tom"],
+    "story": "Pascal, now steady, reaches out to Tom with a thoughtful gift (scarf, poetry book) and apologizes for past detachment. Tom, seeing his growth, responds warmly, their mutual vulnerability rekindling their bond. A tender moment confirms their connection feels right, built on solid ground."
+  },
+  {
+    "id": 53,
+    "chapterNumber": 53,
+    "date": "2022-07-11",
+    "chapterTitle": "11 July 2022",
+    "characters": ["Pascal", "Elias"],
+    "story": "Early in their romance, Pascal and Elías share a tender, rain-soaked evening. Elías’s awe at Pascal’s ordered flat and their playful banter spark connection. A walk by the Water of Leith reveals Elías’s sincere desire to know Pascal, creating hope for a deep bond, later contrasted by their painful end."
   }
 ]
